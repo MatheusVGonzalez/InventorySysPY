@@ -1,0 +1,2 @@
+ID: 1 / {'name': 'headset', 'category': 'Eletronics', 'brand': ('Razer',), 'quantity': 2, 'price': 699.99}
+ID: 2 / {'name': 'Car', 'category': 'Home', 'brand': ('Ford',), 'quantity': 2, 'price': 800.0}
